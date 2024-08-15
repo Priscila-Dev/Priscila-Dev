@@ -27,11 +27,11 @@
 </br>
 <h2>Estatísticas do GitHub</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prisciladev&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priscila-dev&theme=radical&show_icons=true)
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prisciladev&theme=radical&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscila-dev&theme=radical&layout=compact)
 
 
 <h2 style="color: aqua; font-weight: bold">Linguagens de Marcação e Estilo</h2>
