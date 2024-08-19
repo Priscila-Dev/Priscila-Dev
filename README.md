@@ -3,7 +3,7 @@
 <h1 style="color:indigo;font-weight:bold"> Priscila Almeida</h1>
 <h2 style="color: darkmagenta; font-weight: bold">Olá👋!</h2>
 
-### ***Sou uma desenvolvedora apaixonada por criar soluções inovadoras e jogos interativos. Com experiência em HTML, CSS, JavaScript, e um crescente interesse em Java, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou trabalhando em projetos que envolvem animação em CSS, armazenamento de estado em <sup>localStorage</sup>, e desenvolvimento de jogos com personagens coletores.*** 
+### ***Sou uma desenvolvedora apaixonada por criar soluções inovadoras e jogos interativos. Com experiência em HTML, CSS, JavaScript, e um crescente interesse em Java, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou trabalhando em projetos que envolvem animação em CSS e desenvolvimento de jogos com personagens coletores.*** 
 
 ### ***🌱 Estou expandindo meu conhecimento em Java e explorando suas aplicações em desenvolvimento de software.***</br>
 ### 🎮 ***Tenho um interesse especial em jogos e animações.***</br>
